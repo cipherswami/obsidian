@@ -1,1 +1,6 @@
-{}
+{
+  "theme": "system",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false
+}
