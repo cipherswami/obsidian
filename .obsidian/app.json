@@ -25,6 +25,6 @@
   "useMarkdownLinks": false,
   "showUnsupportedFiles": false,
   "uriCallbacks": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "attachmentFolderPath": "./"
 }
