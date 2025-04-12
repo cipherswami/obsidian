@@ -1,0 +1,10 @@
+/* Remove the title from title bar */
+.view-header-title-container {
+  display: none !important;
+}
+
+/* Adjust the position of action buttons */
+.view-actions {
+  justify-content: flex-end;
+  width: 100%;
+}

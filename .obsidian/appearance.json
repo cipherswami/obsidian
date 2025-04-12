@@ -2,5 +2,8 @@
   "theme": "system",
   "showViewHeader": true,
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Add rename modal"
+  ]
 }

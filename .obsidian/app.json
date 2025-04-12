@@ -1,7 +1,7 @@
 {
   "focusNewTab": true,
   "defaultViewMode": "preview",
-  "livePreview": true,
+  "livePreview": false,
   "readableLineLength": true,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
@@ -18,13 +18,13 @@
   "tabSize": 4,
   "autoConvertHtml": true,
   "vimMode": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "trashOption": "system",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": false,
   "uriCallbacks": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "attachmentFolderPath": "./"
 }
