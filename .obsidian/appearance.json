@@ -4,6 +4,7 @@
   "showRibbon": true,
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "Add rename modal"
+    "Add rename modal",
+    "Enable table wrap"
   ]
 }

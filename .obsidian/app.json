@@ -3,7 +3,7 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "readableLineLength": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "propertiesInDocument": "visible",
   "foldHeading": true,
   "foldIndent": true,
@@ -26,5 +26,6 @@
   "showUnsupportedFiles": false,
   "uriCallbacks": true,
   "showInlineTitle": false,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative"
 }

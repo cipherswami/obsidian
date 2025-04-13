@@ -17,26 +17,35 @@ This repository includes a thoughtfully curated selection of plugins that enhanc
 | 🔗 **URL into Selection** | Paste links as Markdown using selected text for fast referencing. |
 
 
+# 🎨 Included CSS Snippets
+
+| Snippet | Function |
+|---------|----------|
+| **Add rename modal** | Triggers the rename modal pop-up by disabling the title in the title bar. |
+| **Enable table wrap** | Enables word wrapping for table content in source mode. |
+
 # 🔧 Obsidian Setup
 
-## 🏁 Initial Setup
-1. Download the vault: [obsidian-main.zip](https://github.com/cipherswami/obsidian/archive/refs/heads/main.zip) 🔗  
-2. Extract the vault to preferably `Documents` folder. 
-3. Optionally rename `obsidian-main` to `Obsidian` for simplicity.
-4. Open Obsidian → **Open folder as vault** → Select the extracted folder.
+## 🏁 Vault Setup
+
+1. Download the vault from this link: [obsidian-main.zip](https://github.com/cipherswami/obsidian/archive/refs/heads/main.zip) 🔗  
+2. Extract the downloaded zip file, preferably into your `Documents` folder.  
+3. Rename the extracted folder from `obsidian-main` to `Obsidian` for easier access.  
+4. Open **Obsidian** → **Open folder as vault** → **Choose the renamed `Obsidian` folder**.
 
 ## ☁️ Sync Setup (Optional)
 
-### 🔹 On Your Initial Device
-1. Navigate to: **Settings** → **Plugins** → **Remotely Save**.
-2. Select your preferred service (**Dropbox**, **WebDAV**, etc.) and follow the setup procedure.
-3. Once authorized, Click **Sync Now** to upload your entire vault.
+### 🔹 On Your Primary Device
+1. Go to **Settings** → **Plugins** → **Remotely Save**.  
+2. Choose your preferred sync service (**Dropbox**, **WebDAV**, etc.) and complete the setup process.  
+3. Once authorized, click **Sync Now** to upload your entire vault to the cloud.  
 
-### 🔹 On Additional Devices
-1. Download the vault from your cloud @ (`/Apps/remotely-save/Obsidian`).
-2. Again preferably place it int`Documents` folder in the new device.
-3. Now open Obsidian → **Open folder as vault** → Select the downloaded `Obsidian` vault folder.
-4. Hit **Sync Now** to pull everything in.
+### 🔹 On Additional Devices  
+1. Download and extract the `Obsidian` vault from your cloud storage (typically located at `/Apps/remotely-save`).  
+2. Before proceedings, make sure you have backup of the download cloud vault to prevent any potential data loss.
+3. Now preferably place the downloaded vault in the `Documents` folder on the new device.  
+4. Open **Obsidian** → **Open folder as vault** → **Choose the downloaded `Obsidian` folder**.  
+5. Click **Sync Now** to sync and retrieve all your data.
 
 > 🔄 Automatically syncs notes, plugins, themes, and settings.
 
